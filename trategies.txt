@@ -1,0 +1,7 @@
+- intial project setup, with tailwind, daisy and push it on github
+- update tab icon + title
+- install and setup react router dom
+- first deploy on firebase (https://task-management-barik.web.app/)
+- todo: set server and deploy on vercel
+- setup mongodb on backend (username: mdabarik24  password: 1QwkRLvtESJWSk3R)
+- 
